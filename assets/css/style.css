@@ -16,6 +16,7 @@ header h1 {
     margin: 0;
 }
 
-h1 {
-    color: #ffe668;
+header a {
+    text-decoration: none;
+    color: #fce138;
 }
