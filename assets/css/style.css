@@ -9,14 +9,14 @@ header {
     background-color: #39a6b2;
 }
 
-header {
+header a {
     font-weight: bold;
     font-size: 36px;
     color: #fce138;
     margin: 0;
 }
 
-header a h1 {
+header h1 a {
     text-decoration: none;
     color: #fce138;
 }
